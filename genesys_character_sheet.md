@@ -1,20 +1,24 @@
-###Name:  
+### Name:  
 Archetype:  
 Career:   
 Personal Pronoun:  
+Age:
+Height:
+Build:
+Hair:
+Eyes:
 
-|  Age  | Height | Build | Hair  | Eyes  |
-| :---: | :---:  | :---: | :---: | :---: |
-|       |        |       |       |       |
 
-| Motivations | | | |
-| :---: | :---: | :---: | :---: |
+Motivations 
+
 | Strength | Flaw  | Desire | Fear |  
+| :---: | :---: | :---: | :---: |
 |          |       |        |      |
 
-| Characteristics | | | | | |
-| :---: |  :---:  |   :---:   | :---:   |   :---:   |  :---:   |
+Characteristics
+
 | Brawn | Agility | Intellect | Cunning | Willpower | Presence |  
+| :---: |  :---:  |   :---:   | :---:   |   :---:   |  :---:   |
 |       |         |           |         |           |          |
 
 | Soak  | Wound Threshold | Strain Thresold |
