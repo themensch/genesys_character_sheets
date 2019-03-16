@@ -26,15 +26,13 @@ Characteristics
 |       |                 |                 |
 |Current|                 |                 |
 
-| Defense | |
-| :---:   | :---: |
-| Melee   |       |
-| Ranged  |       |
+| Defense: | Melee |  | Ranged |  |
+| ---   | --- | --- | --- | --- | 
+|__________||||
 
-| Encumbrance | |
-| :---: | :---: |
-| Threshold |   |
-| Current   |   |
+Encumbrance 
+- ```Threshold```
+- ```Current```
 
 | Skills | | |
 | :---: | :---: | :---: |
