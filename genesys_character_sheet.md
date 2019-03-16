@@ -1,24 +1,25 @@
-**Character**
-Name:
-Archetype:
-Career: 
-Personal Pronoun:
-Age: 
-Height: 
-Build: 
-Hair: 
-Eyes: 
+**Character**  
+Name:  
+Archetype:  
+Career:   
+Personal Pronoun:  
+Age:   
+Height:   
+Build:   
+Hair:   
+Eyes:   
 
-**Motivations**
-Strength: 
-Flaw: 
-Desire: 
-Fear:
+**Motivations**      
+Strength:   
+Flaw:   
+Desire:   
+Fear:  
 
-**Characteristics**
+**Characteristics**  
 
 | Brawn | Agility | Intellect | Cunning | Willpower | Presence |  
-| :---: | :---: |   :---: | :---: | :---: | :---: |
+| :---: |  :---:  |   :---:   | :---:   |   :---:   |  :---:   |
+|       |         |           |         |           |          |
 
 **——Derived Attributes——**
 Soak: 
