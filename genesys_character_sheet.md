@@ -1,39 +1,45 @@
-**Character**  
-Name:  
+###Name:  
 Archetype:  
 Career:   
 Personal Pronoun:  
-Age:   
-Height:   
-Build:   
-Hair:   
-Eyes:   
 
-**Motivations**      
-Strength:   
-Flaw:   
-Desire:   
-Fear:  
+|  Age  | Height | Build | Hair  | Eyes  |
+| :---: | :---:  | :---: | :---: | :---: |
+|       |        |       |       |       |
 
-**Characteristics**  
+| Motivations | | | |
+| :---: | :---: | :---: | :---: |
+| Strength | Flaw  | Desire | Fear |  
+|          |       |        |      |
 
-| Brawn | Agility | Intellect | Cunning | Willpower | Presence |  
+| Characteristics | | | | | |
 | :---: |  :---:  |   :---:   | :---:   |   :---:   |  :---:   |
+| Brawn | Agility | Intellect | Cunning | Willpower | Presence |  
 |       |         |           |         |           |          |
 
-**——Derived Attributes——**
-Soak: 
-WT: 
-ST: 
-Def (M|R) 0 | 0
-Encumbrance Threshold: 
+| Soak  | Wound Threshold | Strain Thresold |
+| :---: |      :---:      |      :---:      |
+|       |                 |                 |
+|Current|                 |                 |
 
-**——Skills——**
-*Career skill* 
-*Non-career skills*
+| Defense | |
+| :---:   | :---: |
+| Melee   |       |
+| Ranged  |       |
+
+| Encumbrance | |
+| :---: | :---: |
+| Threshold |   |
+| Current   |   |
+
+| Skills | | |
+| :---: | :---: | :---: |
+| Name | Rank | Career? |
+|      |      |         |
 
 **——Heroic Ability——**
 Ability Name
+
 
 **——Weapons——**
 – Weapon the first
@@ -47,9 +53,8 @@ Ability Name
 – Talent the first
 – Ability the second
 
-**——XP——**
-Starting: *n*XP
-Spent (*n*XP)
-
-Gained *n*XP
-Spent *n*XP
+| XP       |       |
+| :---:    | :---: |
+| Starting |       |
+| Gained   |       |
+| Spent    |       |
