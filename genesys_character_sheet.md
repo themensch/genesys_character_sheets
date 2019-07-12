@@ -1,5 +1,5 @@
 # Name:
-| | |
+| Description | |
 | :-- | :--
 | **Archetype:** | 
 | **Career:** |
@@ -28,9 +28,15 @@
 |       |         |           |         |           |          |
 
 | Soak  | Wound Threshold | Strain Thresold |
-| :---: |      :---:      |      :---:      |
+| :---: |      ---:       |       ---:      |
 |       |                 |                 |
 |Current|                 |                 |
+
+### Critical Injuries
+
+| Severity | Result |
+| :--: | :-- |
+|  |  |
 
 ### Defense
 | Melee | Ranged |
