@@ -27,7 +27,7 @@
 | :---: |  :---:  |   :---:   | :---:   |   :---:   |  :---:   |
 |       |         |           |         |           |          |
 
-| Soak  | Wound Threshold | Strain Thresold |
+| Soak  | Wound Threshold | Strain Threshold |
 | :---: |      ---:       |       ---:      |
 |       |                 |                 |
 |Current|                 |                 |
@@ -53,7 +53,7 @@
 | :--- | :---: | :---: |
 |      |      |         |
 
-## [Heroic Ability Name]
+## Heroic Ability Name
 * **Primary Effect:**
 * **Ability Origin:**
 * **Upgrades:**
